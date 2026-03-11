@@ -1,7 +1,29 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-11T10:00:00+08:00",
+  "lastUpdated": "2026-03-11T10:50:00+08:00",
   "articles": [
+    {
+      "id": "2026-03-10-openclaw-deployment",
+      "date": "2026-03-10",
+      "title": "OpenClaw 部署一个月踩坑实录：从云服务器到本地 Mac",
+      "path": "2026/03/10/article.md",
+      "cover": "2026/03/10/images/cover.png",
+      "platforms": {
+        "blog": {
+          "status": "published",
+          "url": "https://dwdestiny.github.io/dang-wei-content/2026/03/10/article.md"
+        },
+        "wechat": {
+          "status": "draft",
+          "htmlPath": "2026/03/10/wechat/article.html",
+          "imagesMapped": false
+        },
+        "xiaohongshu": {
+          "status": "draft",
+          "imagesPath": "2026/03/10/xiaohongshu/"
+        }
+      }
+    },
     {
       "id": "2026-03-11-sample",
       "date": "2026-03-11",
