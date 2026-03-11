@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2026-03-11T10:00:00+08:00",
+  "articles": [
+    {
+      "id": "2026-03-11-sample",
+      "date": "2026-03-11",
+      "title": "示例文章",
+      "path": "2026/03/11/article.md",
+      "cover": "2026/03/11/images/cover.png",
+      "platforms": {
+        "blog": {
+          "status": "draft",
+          "url": null
+        },
+        "wechat": {
+          "status": "draft",
+          "htmlPath": "2026/03/11/wechat/article.html",
+          "imagesMapped": false
+        },
+        "xiaohongshu": {
+          "status": "draft",
+          "imagesPath": "2026/03/11/xiaohongshu/"
+        }
+      }
+    }
+  ]
+}
