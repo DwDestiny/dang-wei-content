@@ -1,16 +1,12 @@
 # App赚美金出海营销第二步：讲清Product Hunt发布
 
+有 app 没用户，发朋友圈没人看，推特也没声量？先去试试 PH。PH 是一个专业的产品发布社区，这里很多人愿意看看这些新产品，也愿意做第一批种子用户。
+
+### 今日实测
+
+4 点发布vibe manager，6点进去看，已到77 points、26 followers。
+
 ![](images/image-01.png)
-![](images/image-02.png)
-![](images/image-03.png)
-![](images/image-04.png)
-![](images/image-05.png)
-
-## 有app没用户，发朋友圈没人看，推特也没声量？先去试试 PH，PH是一个专业的产品发布社区，这里很多人愿意看看这些新产品，愿意去做种子用户。
-
-#### 今日实测
-
-4 点发布vibe manager，6点进去看，已到 77 points、26 followers 。
 
 项目链接：https://www.producthunt.com/products/vibe-manager-mcp-syn?comment=4995851
 
@@ -21,23 +17,27 @@
 
 ### 常用的发布配置
 
-#### 一、官网提前准备
+### 一、官网提前准备
 
 - 首页一屏说清“它解决什么问题”，3 句以内
 - 必备页：Pricing、FAQ、About、Terms、Privacy
 
-#### 二、截图与短演示准备（截图必要，演示强烈推荐）
+### 二、截图与短演示准备（截图必要，演示强烈推荐）
 
 - 截图要“讲故事”：界面、功能、价值
 - （这里推一下我的免费截图工具，有需要的朋友看我之前的帖子）
 
 做一个 30-60 秒交互演示，即可以增加专业性，放到官网还能提升信任度和转化率
 
-用 supademo，免费14天，录个屏就能自动生成交互步骤、光标移动和字幕说明，像“视频”但比录屏更清楚，甚至能鼠标一步步交互
+![](images/image-02.png)
+
+![](images/image-03.png)
+
+用supademo，免费14天，录个屏就能自动生成交互步骤、光标移动和字幕说明，像“视频”但比录屏更清楚，甚至能鼠标一步步交互
 
 Supademo ：https://supademo.cello.so/nFUzUyHgiHe
 
-#### 三、PH 页面素材
+### 三、PH 页面素材
 
 - 标题：一句话定位 + 目标人群
 - 标签：工具类型 + 目标用户（developer tools / productivity / AI 等）
@@ -54,7 +54,7 @@ Supademo ：https://supademo.cello.so/nFUzUyHgiHe
 - 发布时段选“目标用户在线的上午时段”（太晚时区会错失早盘动量）
 - 第一小时盯评论、补充 FAQ、修 typo，别指望“发完就行”
 
-#### 我这次的即时反馈（供参考）
+### 我这次的即时反馈（供参考）
 
 - 4 点发，6 点看：77 points、26 followers
 - 点赞与关注的节奏稳定，来自真实产品人，后续复盘会针对评论集中问题继续打磨
@@ -76,6 +76,6 @@ Supademo ：https://supademo.cello.so/nFUzUyHgiHe
 
 关注我，后续分享更多出海营销以及app开发相关内容～
 
-## 祝大家早日月入万刀！一起把产品做成正循环！
+祝大家早日月入万刀！一起把产品做成正循环！
 
 *原文发布于：https://mp.weixin.qq.com/s/ZssV484NGaW2wKfkjuQgYQ*
