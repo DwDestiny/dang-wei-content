@@ -1,6 +1,6 @@
 # OpenClaw 这波更新太猛了：7 天 5 个版本，我帮你划重点
 
-![封面图](openclaw-cover-v4-cute.png)
+![封面图](images/openclaw-cover-v4-cute.png
 
 > 从 3 月 7 日到 3 月 13 日，OpenClaw 连着发了 5 个版本。作为一个天天用的人，我挑了几个真正影响使用体验的更新聊聊。
 
@@ -14,13 +14,13 @@
 | 2026.3.11 | 3 月 12 日 | 正式版 |
 | 2026.3.12 | 3 月 13 日 | 正式版 |
 
-![时间轴图](timeline-7days-5versions.png)
+![时间轴图](images/timeline-7days-5versions.png
 
 一天一个版本，这节奏放在开源项目里也是没谁了。
 
 ## 这 5 个更新最值得看
 
-![核心亮点图](5-core-features.png)
+![核心亮点图](images/5-core-features.png
 
 ### 1. Dashboard v2 全新改版（3.12）
 
@@ -109,7 +109,7 @@ OpenAI 和 Claude 都支持了快速通道。
 
 ## 移动端终于能用了
 
-![三平台图](mobile-platforms-update.png)
+![三平台图](images/mobile-platforms-update.png
 
 **iOS（3.11）**
 
@@ -154,7 +154,7 @@ openclaw backup verify
 
 ## 升级前注意
 
-![升级指南图](upgrade-warning-guide.png)
+![升级指南图](images/upgrade-warning-guide.png
 
 **3.7 有个 Breaking Change**
 
