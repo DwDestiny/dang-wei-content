@@ -1,50 +1,189 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-11T10:50:00+08:00",
+  "lastUpdated": "2026-03-12T12:45:00+08:00",
   "articles": [
     {
       "id": "2026-03-10-openclaw-deployment",
       "date": "2026-03-10",
       "title": "OpenClaw 部署一个月踩坑实录：从云服务器到本地 Mac",
       "path": "2026/03/10/article.md",
-      "cover": "2026/03/10/images/cover.png",
-      "platforms": {
-        "blog": {
-          "status": "published",
-          "url": "https://dwdestiny.github.io/dang-wei-content/2026/03/10/article.md"
-        },
-        "wechat": {
-          "status": "draft",
-          "htmlPath": "2026/03/10/wechat/article.html",
-          "imagesMapped": false
-        },
-        "xiaohongshu": {
-          "status": "draft",
-          "imagesPath": "2026/03/10/xiaohongshu/"
-        }
-      }
+      "cover": "2026/03/10/images/cover.png"
     },
     {
-      "id": "2026-03-11-sample",
-      "date": "2026-03-11",
-      "title": "示例文章",
-      "path": "2026/03/11/article.md",
-      "cover": "2026/03/11/images/cover.png",
-      "platforms": {
-        "blog": {
-          "status": "draft",
-          "url": null
-        },
-        "wechat": {
-          "status": "draft",
-          "htmlPath": "2026/03/11/wechat/article.html",
-          "imagesMapped": false
-        },
-        "xiaohongshu": {
-          "status": "draft",
-          "imagesPath": "2026/03/11/xiaohongshu/"
-        }
-      }
+      "id": "2026-01-13-app-921b102b",
+      "date": "2026-01-13",
+      "title": "「死了么」APP“爆火”？然而真实数据是……",
+      "path": "2026/01/13/article.md",
+      "cover": "2026/01/13/images/cover.jpg",
+      "source_url": "https://mp.weixin.qq.com/s/vnLx9M0xM8HaelydxRv5qw"
+    },
+    {
+      "id": "2026-01-07-ai-ccef6908",
+      "date": "2026-01-07",
+      "title": "给AI开发者的一些忠告",
+      "path": "2026/01/07/article.md",
+      "cover": "2026/01/07/images/cover.jpg",
+      "source_url": "https://mp.weixin.qq.com/s/fZMcEXfm0dMksIEDXa8zFQ"
+    },
+    {
+      "id": "2025-11-18-gemini3-cursor-6a79d374",
+      "date": "2025-11-18",
+      "title": "gemini3跑分炸裂，在cursor已经可用了！",
+      "path": "2025/11/18/article.md",
+      "cover": "2025/11/18/images/cover.jpg",
+      "source_url": "https://mp.weixin.qq.com/s/I7mBmtb47N-oMpBRwX_ApQ"
+    },
+    {
+      "id": "2025-11-17-99-app-88be6a94",
+      "date": "2025-11-17",
+      "title": "日记好看又如何？99% 的记录 App 都在浪费你的数据",
+      "path": "2025/11/17/article.md",
+      "cover": "2025/11/17/images/cover.jpg",
+      "source_url": "https://mp.weixin.qq.com/s/SVaHvAt9JNCjCEjl9YZuSw"
+    },
+    {
+      "id": "2025-11-12-app-product-hunt-fdfda98e",
+      "date": "2025-11-12",
+      "title": "App赚美金出海营销第二步：讲清Product Hunt发布",
+      "path": "2025/11/12/article.md",
+      "cover": "2025/11/12/images/cover.jpg",
+      "source_url": "https://mp.weixin.qq.com/s/ZssV484NGaW2wKfkjuQgYQ"
+    },
+    {
+      "id": "2025-11-07-app-fef738f3",
+      "date": "2025-11-07",
+      "title": "做App上架截图？这个工具完全免费！无水印！",
+      "path": "2025/11/07/article.md",
+      "cover": "2025/11/07/images/cover.jpg",
+      "source_url": "https://mp.weixin.qq.com/s/JYyCLmngh68DczX6cAUlig"
+    },
+    {
+      "id": "2025-11-04-app-9c1bed17",
+      "date": "2025-11-04",
+      "title": "App赚美刀出海营销第一步：上线产品介绍站",
+      "path": "2025/11/04/article.md",
+      "cover": "2025/11/04/images/cover.jpg",
+      "source_url": "https://mp.weixin.qq.com/s/V-srYm2OPLrRIpuO4_8i_Q"
+    },
+    {
+      "id": "2025-10-31-macos-app-15-edfb1973",
+      "date": "2025-10-31",
+      "title": "macOS app上架五天，销售额15美金",
+      "path": "2025/10/31/article.md",
+      "cover": "2025/10/31/images/cover.jpg",
+      "source_url": "https://mp.weixin.qq.com/s/r-MDBIWe0jmfaOQWGGEsQg"
+    },
+    {
+      "id": "2025-10-30-perplexity-1-15-76489c4f",
+      "date": "2025-10-30",
+      "title": "Perplexity砸钱搞分销，邀请1人=15刀乐啊！还不趁机挣一笔！",
+      "path": "2025/10/30/article.md",
+      "cover": "2025/10/30/images/cover.jpg",
+      "source_url": "https://mp.weixin.qq.com/s/zFZH4DAmQlN0mWVxE8JfRQ"
+    },
+    {
+      "id": "2025-10-29-codex-mcp-toml-7e2fa599",
+      "date": "2025-10-29",
+      "title": "Codex装MCP要手撸TOML？这个工具可视化一键搞定",
+      "path": "2025/10/29/article.md",
+      "cover": "2025/10/29/images/cover.jpg",
+      "source_url": "https://mp.weixin.qq.com/s/e9z95xbQ0Rj4Z2oGtvPStg"
+    },
+    {
+      "id": "2025-10-28-notion-5-claude-4-5-gpt-aa4e00d0",
+      "date": "2025-10-28",
+      "title": "Notion！5刀/月无限用claude 4.5和GPT-5！",
+      "path": "2025/10/28/article.md",
+      "cover": "2025/10/28/images/cover.jpg",
+      "source_url": "https://mp.weixin.qq.com/s/QcrP4VZ91rGKOv-JW3HAmA"
+    },
+    {
+      "id": "2025-10-27-article-9575a147",
+      "date": "2025-10-27",
+      "title": "一人公司必看！一文讲清楚备案这点事～",
+      "path": "2025/10/27/article.md",
+      "cover": "2025/10/27/images/cover.jpg",
+      "source_url": "https://mp.weixin.qq.com/s/IdrulBGGLnltCuKMMMZXDQ"
+    },
+    {
+      "id": "2025-10-23-claude-code-cursor-codex-bda10684",
+      "date": "2025-10-23",
+      "title": "Claude Code、Cursor、Codex 配置来回改？做了个工具一键同步！",
+      "path": "2025/10/23/article.md",
+      "cover": "2025/10/23/images/cover.jpg",
+      "source_url": "https://mp.weixin.qq.com/s/nvAydMdyXh2KcOl8EhJlzw"
+    },
+    {
+      "id": "2025-09-30-claude4-5-gpt-5-codex-66fc6fa9",
+      "date": "2025-09-30",
+      "title": "claude4.5发布！评分超GPT-5-codex，是王的回归还是一坨大的？",
+      "path": "2025/09/30/article.md",
+      "cover": "2025/09/30/images/cover.jpg",
+      "source_url": "https://mp.weixin.qq.com/s/JNGcQU9cYus6oVs82bpXWw"
+    },
+    {
+      "id": "2025-09-29-ui-cursor-vibe-8c394b22",
+      "date": "2025-09-29",
+      "title": "有了这款号称UI界的Cursor！再也不担心vibe出来的页面难看啦！",
+      "path": "2025/09/29/article.md",
+      "cover": "2025/09/29/images/cover.jpg",
+      "source_url": "https://mp.weixin.qq.com/s/aGRdb5LgJ6CAj3KdX52c2Q"
+    },
+    {
+      "id": "2025-09-18-article-5b31ec86",
+      "date": "2025-09-18",
+      "title": "超全超细！独立开发新人避坑指南！一文讲透！",
+      "path": "2025/09/18/article.md",
+      "cover": "2025/09/18/images/cover.jpg",
+      "source_url": "https://mp.weixin.qq.com/s/SWR2jKPib6XllpNK4XjbFw"
+    },
+    {
+      "id": "2025-09-15-claude-code-10-codex-gpt-5-596aac4b",
+      "date": "2025-09-15",
+      "title": "Claude code反华加降智，教你10元成本爽玩满血codex(gpt-5-high)",
+      "path": "2025/09/15/article.md",
+      "cover": "2025/09/15/images/cover.jpg",
+      "source_url": "https://mp.weixin.qq.com/s/rfMJ3NVo-9V0K27GJmEPOQ"
+    },
+    {
+      "id": "2025-09-06-grok-200-12989d7c",
+      "date": "2025-09-06",
+      "title": "猛料！疑似马斯克grok新模型上线，闻所未闻的200万上下文！",
+      "path": "2025/09/06/article.md",
+      "cover": "2025/09/06/images/cover.jpg",
+      "source_url": "https://mp.weixin.qq.com/s/xrhOXuggvx18OZKIdu64Uw"
+    },
+    {
+      "id": "2025-09-04-ai-trae-max-3227cf5e",
+      "date": "2025-09-04",
+      "title": "字节AI编程工具Trae正式发布Max模式，深度测试完劝你。。。",
+      "path": "2025/09/04/article.md",
+      "cover": "2025/09/04/images/cover.jpg",
+      "source_url": "https://mp.weixin.qq.com/s/MrqFfSr8_xaxphlBIYDveg"
+    },
+    {
+      "id": "2025-09-03-claude-code-c789fd5f",
+      "date": "2025-09-03",
+      "title": "大坑！快别往Claude code里加规则了！",
+      "path": "2025/09/03/article.md",
+      "cover": "2025/09/03/images/cover.jpg",
+      "source_url": "https://mp.weixin.qq.com/s/3KVoO3h8wxuUmhVkJZRiCQ"
+    },
+    {
+      "id": "2025-09-01-60-vibe-coding-f6e9e90f",
+      "date": "2025-09-01",
+      "title": "60天，从产品经理到独立开发成功上架：vibe coding重新定义了“产品经理”",
+      "path": "2025/09/01/article.md",
+      "cover": "2025/09/01/images/cover.jpg",
+      "source_url": "https://mp.weixin.qq.com/s/leCzcpv4COEIsU39REslVQ"
+    },
+    {
+      "id": "2025-08-28-claude-code-65e062a5",
+      "date": "2025-08-28",
+      "title": "Claude Code突然\"刹车\"？周限制政策来了，国内开发者该怎么办",
+      "path": "2025/08/28/article.md",
+      "cover": "2025/08/28/images/cover.jpg",
+      "source_url": "https://mp.weixin.qq.com/s/FIpYQV5gm5sikTXq9VrCmQ"
     }
   ]
 }

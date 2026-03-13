@@ -1,0 +1,20 @@
+# Perplexity砸钱搞分销，邀请1人=15刀乐啊！还不趁机挣一笔！
+
+Perplexity这家 AI 浏览器正和 GPT 家的 AI 浏览器（Atlas）抢市场，直接砸钱做分销：邀请一位用户完成下载、提问，就直接给15 USD（≈¥100）。
+
+![](images/image-01.png)
+
+### 邀请就有钱
+
+- 邀请1位好友，即可获得约15 USD（≈¥100）现金奖励。
+- 规则简单，流程很短，我会在文中配图标注。
+
+### 怎么拿
+
+1. 官网链接下载浏览器（https://pplx.ai/dangwei12191626），注意：美国IP
+2. 安装并登录，谷歌账户即可
+3. 使用浏览器提问3-4次，激活账户
+
+![](images/image-02.png)
+
+*原文发布于：https://mp.weixin.qq.com/s/zFZH4DAmQlN0mWVxE8JfRQ*
