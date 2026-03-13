@@ -102,12 +102,8 @@ OpenClaw 火得有点突然。
 
 以前被某一家模型绑定。现在 DeepSeek、Kimi、MiniMax、GLM，随便换。
 
-技术的意义，是让普通人也能用上好东西。
+> **技术的意义，是让普通人也能用上好东西。**
 
 从这个角度来说，智谱澳龙确实做到了。
 
 你属于哪一层？
-
----
-
-*原文发布于：https://dwdestiny.github.io/dang-wei-content/2026/03/10/article.html*
