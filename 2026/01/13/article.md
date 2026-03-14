@@ -2,7 +2,7 @@
 
 最近这个“死了么”APP简直夸张啊，不是这个APP本身怎么样，是某号和某书这些社媒疯了，一打开就推这玩意。
 
-![](images/image-01.png)
+![](https://dwdestiny.github.io/dang-wei-content/2026/01/13/images/image-01.png)
 
 说实话，今天写这个呢，是我发现真的有很多朋友就信了，还很认真的在讨论这个app咋样啊，压中了现在独居人的需求啊巴拉巴拉。
 
@@ -36,7 +36,7 @@
 
 这就是我认为这就是个笑话的原因，这也不是我的臆测，app评论都证明了，火了没两天，评分都掉到2.9了。截图来自于点点数据。
 
-![](images/image-02.png)
+![](https://dwdestiny.github.io/dang-wei-content/2026/01/13/images/image-02.png)
 
 ### 聊聊这玩意挣到钱了吗以及怎么挣的
 
