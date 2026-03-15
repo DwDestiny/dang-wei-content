@@ -1,0 +1,53 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="900"><stop stop-color="#F8F0E6"/><stop offset="1" stop-color="#E6D6BE"/></linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#14342A"/><stop offset="1" stop-color="#2A5A47"/></linearGradient>
+    <linearGradient id="amber" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F7B267"/><stop offset="1" stop-color="#E07A2D"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="16" stdDeviation="20" flood-color="#6C4A2E" flood-opacity="0.18"/></filter>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <rect x="88" y="82" width="436" height="166" rx="30" fill="url(#green)"/>
+  <text x="122" y="150" fill="#FFF6EA" font-size="46" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif">不是花活，是底座</text>
+  <text x="122" y="208" fill="#F4D1A3" font-size="28" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif">把最该有的装备先装上</text>
+  <rect x="264" y="650" width="672" height="78" rx="24" fill="#23483A"/>
+  <rect x="318" y="570" width="566" height="72" rx="22" fill="#366451"/>
+  <rect x="372" y="492" width="460" height="68" rx="20" fill="#4D7A67"/>
+  <rect x="424" y="418" width="356" height="62" rx="20" fill="#69917F"/>
+  <text x="544" y="457" fill="#FFF6EA" font-size="30" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif">安全边界</text>
+  <text x="500" y="535" fill="#FFF6EA" font-size="30" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif">记忆分层</text>
+  <text x="458" y="611" fill="#FFF6EA" font-size="30" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif">工作规范</text>
+  <text x="470" y="697" fill="#FFF6EA" font-size="30" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif">轻量自动维护</text>
+  <g filter="url(#shadow)">
+    <ellipse cx="600" cy="348" rx="134" ry="96" fill="#D44F2F"/>
+    <ellipse cx="600" cy="348" rx="92" ry="68" fill="#E36140"/>
+    <circle cx="516" cy="334" r="36" fill="#D44F2F"/>
+    <circle cx="508" cy="328" r="8" fill="#10271F"/>
+    <circle cx="524" cy="328" r="8" fill="#10271F"/>
+    <path d="M488 344C500 352 522 352 534 344" stroke="#10271F" stroke-width="4" stroke-linecap="round"/>
+    <path d="M454 340C420 328 392 306 372 276" stroke="#D44F2F" stroke-width="14" stroke-linecap="round"/>
+    <path d="M746 340C780 328 808 306 828 276" stroke="#D44F2F" stroke-width="14" stroke-linecap="round"/>
+    <path d="M542 420L516 468" stroke="#D44F2F" stroke-width="14" stroke-linecap="round"/>
+    <path d="M576 430L566 482" stroke="#D44F2F" stroke-width="14" stroke-linecap="round"/>
+    <path d="M624 430L634 482" stroke="#D44F2F" stroke-width="14" stroke-linecap="round"/>
+    <path d="M658 420L684 468" stroke="#D44F2F" stroke-width="14" stroke-linecap="round"/>
+  </g>
+  <g>
+    <rect x="844" y="318" width="88" height="88" rx="20" fill="#FFF6EA" stroke="#D8B48D"/>
+    <path d="M888 336L902 362H930L906 380L914 406L888 392L862 406L870 380L846 362H874L888 336Z" fill="url(#amber)"/>
+    <text x="852" y="438" fill="#315345" font-size="22" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif">安全</text>
+    <rect x="888" y="446" width="88" height="88" rx="20" fill="#FFF6EA" stroke="#D8B48D"/>
+    <path d="M918 466H946V512H918V466Z" fill="#2A5A47"/>
+    <path d="M930 452C920 452 912 460 912 470V476H920V470C920 464 924 460 930 460C936 460 940 464 940 470V476H948V470C948 460 940 452 930 452Z" fill="#2A5A47"/>
+    <text x="900" y="566" fill="#315345" font-size="22" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif">记忆</text>
+    <rect x="244" y="302" width="88" height="88" rx="20" fill="#FFF6EA" stroke="#D8B48D"/>
+    <path d="M266 324H310" stroke="#2A5A47" stroke-width="8" stroke-linecap="round"/>
+    <path d="M266 348H310" stroke="#2A5A47" stroke-width="8" stroke-linecap="round"/>
+    <path d="M266 372H300" stroke="#2A5A47" stroke-width="8" stroke-linecap="round"/>
+    <text x="250" y="422" fill="#315345" font-size="22" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif">规则</text>
+    <rect x="182" y="458" width="88" height="88" rx="20" fill="#FFF6EA" stroke="#D8B48D"/>
+    <path d="M206 500H246" stroke="#E07A2D" stroke-width="8" stroke-linecap="round"/>
+    <path d="M206 480H234" stroke="#E07A2D" stroke-width="8" stroke-linecap="round"/>
+    <path d="M206 520H238" stroke="#E07A2D" stroke-width="8" stroke-linecap="round"/>
+    <text x="176" y="578" fill="#315345" font-size="22" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif">任务</text>
+  </g>
+</svg>
