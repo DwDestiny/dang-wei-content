@@ -1,6 +1,6 @@
 # 小龙虾最省心的一键安装配置包来了：安全审计、记忆整合、工作规范一次装好
 
-![封面图](https://dwdestiny.github.io/dang-wei-content/2026/03/15/images/cover.png)
+![封面图](images/cover.png)
 
 我一开始也以为，小龙虾装好就差不多了。
 
@@ -20,7 +20,7 @@
 
 这事干一两次还行。一旦你真的开始长期用，或者开始给不同场景配不同的虾，就会越来越烦。
 
-![安装不是最烦的，装完之后那堆碎事才是](https://dwdestiny.github.io/dang-wei-content/2026/03/15/images/setup-pain.png)
+![安装不是最烦的，装完之后那堆碎事才是](images/setup-pain.png)
 
 所以我后来想得很简单：与其每次重新摸，不如干脆把这套最通用、最容易被忽略、但后面一定会反复用到的底座，直接收成一个一键安装包。
 
@@ -40,7 +40,7 @@
 
 ## 这套包，一次帮你补四层底座
 
-![四层底座图](https://dwdestiny.github.io/dang-wei-content/2026/03/15/images/four-foundations.png)
+![四层底座图](images/four-foundations.png)
 
 ### 1. 先把安全边界收起来
 
@@ -126,7 +126,7 @@
 
 把链接丢给小龙虾。让它帮你安装。装完直接进入战斗状态。
 
-![一句话安装，直接进入战斗状态](https://dwdestiny.github.io/dang-wei-content/2026/03/15/images/one-line-install.png)
+![一句话安装，直接进入战斗状态](images/one-line-install.png)
 
 该补的安全、记忆、规范、轻量自动维护，这些底层东西先一次补上。你不用再自己一条条补，更不用每次都从零重新摸一遍。
 
