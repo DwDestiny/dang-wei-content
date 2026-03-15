@@ -1,1 +1,1 @@
-One sentence command and lobster enters battle-ready mode broken down into clear sequential components, visualized as an educational process illustration, structured color coding, editorial storytelling illustration with strong focus, warm cream, deep green and amber palette, cinematic but clean, with concise labels, high detail, sharp focus, professional composition, 8k quality
+一个用户只发出一句话：帮我安装这个项目。然后小龙虾后面的底层模块自动点亮，进入准备开工的状态。画面重点是‘用户侧操作极简，复杂的是内部，不是用户门槛’。不要终端代码墙，不要密密麻麻命令行。要像轻故事感场景插画，中文用户一眼看懂，奶油白、深墨绿、暖橙金配色，干净、有获得感。
