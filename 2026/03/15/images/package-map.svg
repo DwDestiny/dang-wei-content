@@ -1,0 +1,27 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="28" fill="#F7F3EB"/>
+  <text x="76" y="92" fill="#17352C" font-size="46" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-weight="800">一键安装后，直接补齐什么？</text>
+  <text x="76" y="136" fill="#53665C" font-size="24" font-family="PingFang SC, Microsoft YaHei, sans-serif">不是多装几个文件，而是把最容易反复踩坑的底座一次补齐。</text>
+  <rect x="76" y="190" width="488" height="232" rx="28" fill="#214236"/>
+  <text x="112" y="252" fill="#FFF7EC" font-size="34" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-weight="800">01 安全边界</text>
+  <text x="112" y="304" fill="#DDE8E1" font-size="24" font-family="PingFang SC, Microsoft YaHei, sans-serif">外部输入零信任</text>
+  <text x="112" y="344" fill="#DDE8E1" font-size="24" font-family="PingFang SC, Microsoft YaHei, sans-serif">敏感动作先确认</text>
+  <text x="112" y="384" fill="#DDE8E1" font-size="24" font-family="PingFang SC, Microsoft YaHei, sans-serif">高风险目录默认不读</text>
+  <rect x="636" y="190" width="488" height="232" rx="28" fill="#DCEBDD"/>
+  <text x="672" y="252" fill="#214236" font-size="34" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-weight="800">02 记忆整合</text>
+  <text x="672" y="304" fill="#355B48" font-size="24" font-family="PingFang SC, Microsoft YaHei, sans-serif">daily note / MEMORY / USER / TOOLS 分层</text>
+  <text x="672" y="344" fill="#355B48" font-size="24" font-family="PingFang SC, Microsoft YaHei, sans-serif">新事实先写 daily</text>
+  <text x="672" y="384" fill="#355B48" font-size="24" font-family="PingFang SC, Microsoft YaHei, sans-serif">长期规则再升格</text>
+  <rect x="76" y="476" width="488" height="232" rx="28" fill="#F1E1D0"/>
+  <text x="112" y="538" fill="#5A4535" font-size="34" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-weight="800">03 工作规范</text>
+  <text x="112" y="590" fill="#765B49" font-size="24" font-family="PingFang SC, Microsoft YaHei, sans-serif">AGENTS / WORKFLOW / IDENTITY 骨架</text>
+  <text x="112" y="630" fill="#765B49" font-size="24" font-family="PingFang SC, Microsoft YaHei, sans-serif">先把行为规则定清楚</text>
+  <text x="112" y="670" fill="#765B49" font-size="24" font-family="PingFang SC, Microsoft YaHei, sans-serif">后面加业务也不容易漂</text>
+  <rect x="636" y="476" width="488" height="232" rx="28" fill="#FFF8EF" stroke="#D9C7B3"/>
+  <text x="672" y="538" fill="#214236" font-size="34" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-weight="800">04 轻量自动维护</text>
+  <text x="672" y="590" fill="#5A4C3F" font-size="24" font-family="PingFang SC, Microsoft YaHei, sans-serif">memory_daily_distill</text>
+  <text x="672" y="630" fill="#5A4C3F" font-size="24" font-family="PingFang SC, Microsoft YaHei, sans-serif">weekly_self_review</text>
+  <text x="672" y="670" fill="#5A4C3F" font-size="24" font-family="PingFang SC, Microsoft YaHei, sans-serif">低风险自动开，高风险继续手动确认</text>
+  <rect x="250" y="772" width="700" height="70" rx="35" fill="#214236"/>
+  <text x="312" y="818" fill="#FFF7EC" font-size="28" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-weight="700">装好 OpenClaw，再装这个包，直接进入战斗状态</text>
+</svg>

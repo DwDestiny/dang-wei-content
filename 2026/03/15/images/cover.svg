@@ -1,0 +1,37 @@
+<svg width="1280" height="544" viewBox="0 0 1280 544" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="544" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F6F3EA"/>
+      <stop offset="1" stop-color="#E8F1E8"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#1F3A2F"/>
+      <stop offset="1" stop-color="#355B48"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="544" rx="32" fill="url(#bg)"/>
+  <circle cx="1110" cy="120" r="120" fill="#DDEBDD"/>
+  <circle cx="120" cy="470" r="140" fill="#EBDCCB"/>
+  <rect x="82" y="66" width="732" height="412" rx="28" fill="url(#card)"/>
+  <rect x="124" y="108" width="196" height="36" rx="18" fill="#F1D6B8"/>
+  <text x="148" y="132" fill="#1F3A2F" font-size="22" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-weight="700">OPENCLAW 养虾底座</text>
+  <text x="124" y="204" fill="#FFF6EB" font-size="54" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-weight="800">小龙虾最省心的</text>
+  <text x="124" y="276" fill="#FFF6EB" font-size="54" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-weight="800">一键安装配置包</text>
+  <text x="124" y="338" fill="#D9E7DD" font-size="24" font-family="PingFang SC, Microsoft YaHei, sans-serif">安全审计 / 记忆整合 / 工作规范 / 轻量自动维护</text>
+  <text x="124" y="385" fill="#D9E7DD" font-size="24" font-family="PingFang SC, Microsoft YaHei, sans-serif">装完 OpenClaw，再装这个包，直接进入战斗状态</text>
+  <rect x="124" y="410" width="318" height="40" rx="20" fill="#FFF6EB"/>
+  <text x="150" y="437" fill="#1F3A2F" font-size="22" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-weight="700">DwDestiny / openclaw-xiaolongxia-profile</text>
+  <g transform="translate(890 114)">
+    <rect x="0" y="0" width="292" height="302" rx="26" fill="#FFF9F0" stroke="#D7C6B2"/>
+    <rect x="28" y="34" width="236" height="44" rx="14" fill="#F3E6D8"/>
+    <text x="48" y="63" fill="#5A4C3F" font-size="24" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-weight="700">一键补齐的底座</text>
+    <circle cx="48" cy="114" r="10" fill="#355B48"/>
+    <text x="72" y="121" fill="#294236" font-size="22" font-family="PingFang SC, Microsoft YaHei, sans-serif">安全边界</text>
+    <circle cx="48" cy="156" r="10" fill="#355B48"/>
+    <text x="72" y="163" fill="#294236" font-size="22" font-family="PingFang SC, Microsoft YaHei, sans-serif">记忆分层</text>
+    <circle cx="48" cy="198" r="10" fill="#355B48"/>
+    <text x="72" y="205" fill="#294236" font-size="22" font-family="PingFang SC, Microsoft YaHei, sans-serif">工作规范</text>
+    <circle cx="48" cy="240" r="10" fill="#355B48"/>
+    <text x="72" y="247" fill="#294236" font-size="22" font-family="PingFang SC, Microsoft YaHei, sans-serif">内部 cron</text>
+  </g>
+</svg>
